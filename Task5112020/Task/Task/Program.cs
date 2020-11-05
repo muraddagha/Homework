@@ -60,8 +60,18 @@ namespace Task
             //        Console.WriteLine(Pperson[i].Name);
             //    }
 
+        //public static Person[] PersonArrCopyReverse(Person[] person)
+        //{
+        //    Person[] reversedPeople = new Person[person.Length];
 
-            Console.WriteLine("Size daxil edin");
+        //    for (int i = 0; i < person.Length; i++)
+        //    {
+        //        reversedPeople[person.Length - (i+1)] = person[i];
+
+        //    }
+        //    return reversedPeople;
+        //}
+             Console.WriteLine("Size daxil edin");
             int size = Convert.ToInt32(Console.ReadLine());
 
             string[] names = new string[size];
@@ -111,19 +121,5 @@ namespace Task
                 Console.WriteLine(names[i]);
             }
         }
-
-
-
-        //public static Person[] PersonArrCopyReverse(Person[] person)
-        //{
-        //    Person[] reversedPeople = new Person[person.Length];
-
-        //    for (int i = 0; i < person.Length; i++)
-        //    {
-        //        reversedPeople[person.Length - (i+1)] = person[i];
-
-        //    }
-        //    return reversedPeople;
-        //}
     }
 }
