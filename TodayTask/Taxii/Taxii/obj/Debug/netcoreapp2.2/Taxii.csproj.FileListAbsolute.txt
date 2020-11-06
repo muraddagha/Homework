@@ -1,0 +1,11 @@
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\bin\Debug\netcoreapp2.2\Taxii.deps.json
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\bin\Debug\netcoreapp2.2\Taxii.runtimeconfig.json
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\bin\Debug\netcoreapp2.2\Taxii.runtimeconfig.dev.json
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\bin\Debug\netcoreapp2.2\Taxii.dll
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\bin\Debug\netcoreapp2.2\Taxii.pdb
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\obj\Debug\netcoreapp2.2\Taxii.csprojAssemblyReference.cache
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\obj\Debug\netcoreapp2.2\Taxii.csproj.CoreCompileInputs.cache
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\obj\Debug\netcoreapp2.2\Taxii.AssemblyInfoInputs.cache
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\obj\Debug\netcoreapp2.2\Taxii.AssemblyInfo.cs
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\obj\Debug\netcoreapp2.2\Taxii.dll
+C:\Users\Muradha\Desktop\TodayTask\Taxii\Taxii\obj\Debug\netcoreapp2.2\Taxii.pdb
