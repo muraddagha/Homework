@@ -1,0 +1,11 @@
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\obj\Debug\netcoreapp2.2\11102020.csprojAssemblyReference.cache
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\obj\Debug\netcoreapp2.2\11102020.csproj.CoreCompileInputs.cache
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\obj\Debug\netcoreapp2.2\11102020.AssemblyInfoInputs.cache
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\obj\Debug\netcoreapp2.2\11102020.AssemblyInfo.cs
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\bin\Debug\netcoreapp2.2\11102020.deps.json
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\bin\Debug\netcoreapp2.2\11102020.runtimeconfig.json
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\bin\Debug\netcoreapp2.2\11102020.runtimeconfig.dev.json
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\bin\Debug\netcoreapp2.2\11102020.dll
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\bin\Debug\netcoreapp2.2\11102020.pdb
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\obj\Debug\netcoreapp2.2\11102020.dll
+C:\Users\Muradha\Desktop\11102020\11102020\11102020\obj\Debug\netcoreapp2.2\11102020.pdb
