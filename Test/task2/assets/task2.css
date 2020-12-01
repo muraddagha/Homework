@@ -1,0 +1,18 @@
+.card {
+  width: 255px;
+  height: 346px;
+  text-align: center;
+  border: 1px solid;
+}
+.bimage {
+  background-image: url("./images/menzere.jpg");
+  background-size: cover;
+  width: 255px;
+  height: 224px;
+}
+.icons {
+  background-image: url("./images/like.svg");
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+}
